@@ -1,0 +1,103 @@
+@import url('http://fonts.cdnfonts.com/css/digital-7-mono');
+@import url('http://fonts.cdnfonts.com/css/thegoodmonolith');
+@import "bootstrap";
+
+/* Deactivate Scrollbars */
+html::-webkit-scrollbar {
+    display: none;
+}
+
+html {
+    caret-color:transparent;
+}
+
+body {
+    padding-top:55px;
+    font-family: 'TheGoodMonolith', sans-serif;
+    color:lightgray;
+}
+
+body {
+    background-color:#121212;
+    color:lightgrey;
+    /* font-family: 'TheGoodMonolith', sans-serif; */
+    /* font-family: 'Digital-7 Mono', sans-serif;  */
+    /* font-family: 'Courier New', Courier, monospace; */
+}
+
+img {
+    padding:2px;
+}
+
+.game-letter hr {
+    background-color: #242424;
+}
+
+.EMPTY {
+    display:none;
+}
+
+.banner {
+    width:100vw;
+    padding-bottom:5px;
+}
+
+.dropdown-theme-dark, .card-body {
+    /* background-color:#464646; */
+    /* background-color:#343a40; */
+    background-color:#3f474e;
+    color:lightgray;
+    /* font-family: 'TheGoodMonolith', sans-serif; */
+    /* font-family: 'Digital-7 Mono', sans-serif;  */
+    /* font-family: 'Courier New', Courier, monospace; */
+}
+
+.not-played {
+    background-color:red;
+}
+
+.played {
+    background-color:lightgreen;
+}
+
+.playing {
+    background-color:yellow;
+}
+
+.card-split {
+    background-color:#4a545c;
+    height:5px;
+    margin:0px;
+}
+
+.card-soft-split {
+    background-color:#4a545c;
+    height:2px;
+    margin:0px;
+}
+
+.card-footer {
+    background-color:#4a545c;
+    color:lightgray;
+}
+
+.card-title {
+    text-align:center;
+    color:lightgray;
+}
+
+.card-columns, .card-deck {
+    margin-left:4vw;
+    margin-right:4vw;
+    margin-top:2vh;
+    margin-bottom:2vh;
+}
+
+a:link, 
+a:visited,
+a:active,
+a:hover
+{
+    color:lightgray;
+    text-decoration:none;
+}
