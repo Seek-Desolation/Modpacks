@@ -13,7 +13,7 @@ html {
 
 body {
     padding-top:55px;
-    font-family: 'TheGoodMonolith', sans-serif;
+    /* font-family: 'TheGoodMonolith', sans-serif; */
     color:lightgray;
 }
 
@@ -30,6 +30,7 @@ img {
 }
 
 .game-letter hr {
+    height:1px;
     background-color: #242424;
 }
 
