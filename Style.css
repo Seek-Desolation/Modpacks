@@ -1,7 +1,3 @@
-@import url('http://fonts.cdnfonts.com/css/digital-7-mono');
-@import url('http://fonts.cdnfonts.com/css/thegoodmonolith');
-@import "bootstrap";
-
 /* Deactivate Scrollbars */
 html::-webkit-scrollbar {
     display: none;

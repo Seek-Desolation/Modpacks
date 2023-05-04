@@ -17,6 +17,9 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>    
     
     <link rel="stylesheet" href="Style.css">
+
+    <script type="text/javascript" src="generateCards.js"></script>
+    <script type="text/javascript" src="current.js"></script>
   </head>
 
   <body class="seek-theme-dark">
@@ -59,28 +62,7 @@
       </div>
     </nav>
       
-    <!-- ROW #1 -->
-    <div class="card-deck">
-        <!-- EMPTY CARD (FOR SPACING REASONS) -->
-        <div class="card not-played" style="background-color:#121212;">
-            <a href="#"> 
-              <img class="card-img-top" src="" alt="">
-            </a>
-          </div>
-
-        <div class="card playing">
-            <a href="https://www.curseforge.com/minecraft/modpacks/compact-claustrophobia"> 
-                <img class="card-img-top" src="https://media.forgecdn.net/avatars/267/755/637236568517859580.png" alt="Card image cap">
-            </a>
-        </div>
-
-        <!-- EMPTY CARD (FOR SPACING REASONS) -->
-        <div class="card not-played" style="background-color:#121212;">
-            <a href="#"> 
-              <img class="card-img-top" src="" alt="">
-            </a>
-          </div>
-    </div>
+    <div id="append-here"></div>
 
   </body>
 </html>
