@@ -240,6 +240,86 @@
             "link": "https://www.curseforge.com/minecraft/modpacks/create-astral/screenshots",
             "icon": "https://media.forgecdn.net/avatars/768/269/638104922297531668.png",
             "status": "not-played"
+        },
+        {
+            "name": "The Walking Dead Apocalypse",
+            "link": "https://www.curseforge.com/minecraft/modpacks/the-walking-dead-apocalypse",
+            "icon": "https://media.forgecdn.net/avatars/359/328/637521362121978606.png",
+            "status": "not-played"
+        },
+        {
+            "name": "Astral Engineereing",
+            "link": "https://www.curseforge.com/minecraft/modpacks/astral-engineering",
+            "icon": "https://media.forgecdn.net/avatars/446/692/637704589002710370.jpeg",
+            "status": "not-played"
+        },
+        {
+            "name": "Project Ozone 2",
+            "link": "https://www.curseforge.com/minecraft/modpacks/project-ozone-2-reloaded",
+            "icon": "https://media.forgecdn.net/avatars/39/687/635984377958786885.png",
+            "status": "not-played"
+        },
+        {
+            "name": "Project Ozone 3: A New Way Forward",
+            "link": "https://www.curseforge.com/minecraft/modpacks/project-ozone-3-a-new-way-forward",
+            "icon": "https://media.forgecdn.net/avatars/153/427/636618242985977538.png",
+            "status": "not-played"
+        },
+        {
+            "name": "Craft of the Titans 2",
+            "link": "https://www.curseforge.com/minecraft/modpacks/craft-to-the-future-cott-ii",
+            "icon": "https://media.forgecdn.net/avatars/149/735/636591439457717301.png",
+            "status": "not-played"
+        },
+        {
+            "name": "Enigmatica 6: Expert",
+            "link": "https://www.curseforge.com/minecraft/modpacks/enigmatica6expert",
+            "icon": "https://media.forgecdn.net/avatars/499/608/637816741349081609.jpeg",
+            "status": "not-played"
+        },
+        {
+            "name": "Multiblock Madness",
+            "link": "https://www.curseforge.com/minecraft/modpacks/multiblock-madness",
+            "icon": "https://media.forgecdn.net/avatars/441/822/637692574465638234.gif",
+            "status": "not-played"
+        },
+        {
+            "name": "Sky Factory 4",
+            "link": "https://www.curseforge.com/minecraft/modpacks/skyfactory-4",
+            "icon": "https://media.forgecdn.net/avatars/199/573/636907930795697123.png",
+            "status": "not-played"
+        },
+        {
+            "name": "Stoneblock 3",
+            "link": "https://www.feed-the-beast.com/modpacks/100-ftb-stoneblock-3",
+            "icon": "https://www.feed-the-beast.com/_next/image?url=https%3A%2F%2Fapps.modpacks.ch%2Fmodpacks%2Fart%2F96%2Fstoneblock_logo.png&w=256&q=75",
+            "status": "not-played"
+        },
+        {
+            "name": "FTB Inferno",
+            "link": "https://www.feed-the-beast.com/modpacks/99-ftb-inferno",
+            "icon": "https://www.feed-the-beast.com/_next/image?url=https%3A%2F%2Fapps.modpacks.ch%2Fmodpacks%2Fart%2F94%2Flogo_inferno.png&w=256&q=75",
+            "status": "not-played"
+        },
+        {
+            "name": "FTB Skies",
+            "link": "https://www.feed-the-beast.com/modpacks/103-ftb-skies",
+            "icon": "https://www.feed-the-beast.com/_next/image?url=https%3A%2F%2Fapps.modpacks.ch%2Fmodpacks%2Fart%2F99%2FFTB%20Skies%20512x512.png&w=256&q=75",
+            "status": "not-played"
+        },
+        {
+            "name": "FTB Sky Odyssey",
+            "link": "https://www.feed-the-beast.com/modpacks/8-ftb-sky-odyssey",
+            "icon": "https://www.feed-the-beast.com/_next/image?url=https%3A%2F%2Fapps.modpacks.ch%2Fmodpacks%2Fart%2F2%2Fsky-odyssey.png&w=256&q=75",
+            "status": "not-played"
         }
-    ]
+    ],
+
+    "blank":{
+        "name": "",
+        "link": "",
+        "icon": "",
+        "status": "not-played"
+    }
+
 }
