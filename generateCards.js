@@ -1,15 +1,15 @@
 let cardDeck;
+let packCount = 0;
+let allModpacks;
 
 function generatePage(modpacks, statusType)
 {
-    let packCount = 0;
+    allModpacks = modpacks
     let doc = document.getElementById("append-here");
 
     modpacks.modpacks.sort((a, b) => (a.name > b.name ? 1 : -1));
     modpacks.modpacks.forEach(pack => {
 
-        
-        console.log(pack.status + " : " + statusType);
         if(statusType == "all" || pack.status == statusType)
         {
             if(packCount % modpacks.columns == 0)
@@ -24,6 +24,7 @@ function generatePage(modpacks, statusType)
             }
 
             let card = document.createElement("div")
+            card.id = pack.name;
             card.className = "card " + pack.status;
             cardDeck.appendChild(card);
             
@@ -59,6 +60,13 @@ function addBlank() {
     card.className = "card ";
     card.style = "background-color:#121212;";
     cardDeck.appendChild(card);
+}
 
-    console.log("blank added")
+function randomPick()
+{
+    randomPack = allModpacks.modpacks[Math.floor(Math.random() * packCount)];
+    document.getElementById(randomPack.name).className = "card random-pick-card";
+    randomButton = document.getElementById("randomButton");
+    randomButton.href = randomPack.link;
+    randomButton.textContent = randomPack.name;
 }
