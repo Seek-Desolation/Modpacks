@@ -50,15 +50,15 @@ img {
 }
 
 .not-played {
-    background-color:red;
+    background-color:darkred;
 }
 
 .played {
-    background-color:lightgreen;
+    background-color:green;
 }
 
 .playing {
-    background-color:yellow;
+    background-color:goldenrod;
 }
 
 .random-pick-text {
@@ -98,6 +98,12 @@ img {
     margin-right:4vw;
     margin-top:2vh;
     margin-bottom:2vh;
+}
+
+.card-text {
+    text-align: center;
+    font-weight: bolder;
+    color: lightgray;
 }
 
 a:link, 

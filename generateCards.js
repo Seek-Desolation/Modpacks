@@ -36,6 +36,12 @@ function generatePage(modpacks, statusType)
             img.src = pack.icon;
             img.className = "card-img-top";
             link.appendChild(img);
+
+            let body = document.createElement("div")
+            body.className = "card-text";
+            body.innerHTML += pack.tags.gameVersion + "<br>";
+            body.innerHTML += pack.tags.modCount + " Mods<br>";
+            card.appendChild(body);
             
             packCount++;
         }

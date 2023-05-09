@@ -5,307 +5,511 @@
             "name": "1.7.10 Pack",
             "link": "https://www.technicpack.net/modpack/the-1710-pack.453902",
             "icon": "https://cdn.endermedia.com/global/Resources/svg/branding/the-1710-pack.svg",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.7.10",
+                "modCount": 213
+            }
         },
         {
             "name": "Astroblock",
             "link": "https://www.curseforge.com/minecraft/modpacks/astroblock",
             "icon": "https://media.forgecdn.net/avatars/193/684/636869178406138753.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.12.2",
+                "modCount": 207
+            }
         },
         {
             "name": "Astroblock 2",
             "link": "https://www.curseforge.com/minecraft/modpacks/astroblock-2",
             "icon": "https://media.forgecdn.net/avatars/296/679/637341584988870303.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.12.2",
+                "modCount": 218
+            }
         },
         {
             "name": "Agrarian Skies",
             "link": "https://www.curseforge.com/minecraft/modpacks/agrarian-skies",
             "icon": "https://media.forgecdn.net/avatars/11/600/635496487811303646.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.6.4",
+                "modCount": 53
+            }
         },
         {
             "name": "Agrarian Skies 2",
             "link": "https://www.curseforge.com/minecraft/modpacks/agrarian-skies-2",
             "icon": "https://media.forgecdn.net/avatars/13/919/635580589712293025.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.7.10",
+                "modCount": 95
+            }
         },
         {
             "name": "Astropolis",
             "link": "https://www.curseforge.com/minecraft/modpacks/astropolis",
             "icon": "https://media.forgecdn.net/avatars/627/297/638022175281355875.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.19.2",
+                "modCount": 145
+            }
         },
         {
             "name": "Compact Claustrophobia",
             "link": "https://www.curseforge.com/minecraft/modpacks/compact-claustrophobia",
             "icon": "https://media.forgecdn.net/avatars/267/755/637236568517859580.png",
-            "status": "played"
+            "status": "played",
+            "tags": {
+                "gameVersion": "1.12.2",
+                "modCount": 137
+            }
         },
         {
             "name": "Craft of the Titans",
             "link": "https://www.curseforge.com/minecraft/modpacks/craft-of-the-titans",
             "icon": "https://media.forgecdn.net/avatars/91/773/636250029719327466.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.10.2",
+                "modCount": 155
+            }
         },
         {
             "name": "Decursio Project",
             "link": "https://www.curseforge.com/minecraft/modpacks/decursio-project",
             "icon": "https://media.forgecdn.net/avatars/553/92/637893326243672364.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.16.5",
+                "modCount": 276
+            }
         },
         {
             "name": "Dungeons, Dragons, and Space Shuttles",
             "link": "https://www.curseforge.com/minecraft/modpacks/dungeons-dragons-and-space-shuttles",
             "icon": "https://media.forgecdn.net/avatars/172/175/636734768210805980.jpeg",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.12.2",
+                "modCount": 267
+            }
         },
         {
             "name": "Engineers Life",
             "link": "https://www.curseforge.com/minecraft/modpacks/engineers-life",
             "icon": "https://media.forgecdn.net/avatars/182/362/636807450794298473.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.12.2",
+                "modCount": 144
+            }
         },
         {
             "name": "Engineers Life 2",
             "link": "https://www.curseforge.com/minecraft/modpacks/engineers-life-2",
             "icon": "https://media.forgecdn.net/avatars/321/478/637431216308460763.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.16.5",
+                "modCount": 205
+            }
         },
         {
             "name": "Forever Stranded",
             "link": "https://www.curseforge.com/minecraft/modpacks/forever-stranded",
             "icon": "https://media.forgecdn.net/avatars/88/20/636220680914536344.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.10.2",
+                "modCount": 154
+            }
         },
         {
             "name": "Forever Stranded: Lost Souls",
             "link": "https://www.curseforge.com/minecraft/modpacks/forever-stranded-lost-souls",
             "icon": "https://media.forgecdn.net/avatars/121/203/636408872817469098.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.12.2",
+                "modCount": 189
+            }
         },
         {
             "name": "Ice",
             "link": "https://www.curseforge.com/minecraft/modpacks/magic-ice-tech",
             "icon": "https://media.forgecdn.net/avatars/635/372/638037006950874394.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.16.5",
+                "modCount": 150
+            }
         },
         {
             "name": "Roguelike Adventures and Dungeons 2",
             "link": "https://www.curseforge.com/minecraft/modpacks/roguelike-adventures-and-dungeons-2",
             "icon": "https://media.forgecdn.net/avatars/485/618/637786105420601729.png",
-            "status": "played"
+            "status": "played",
+            "tags": {
+                "gameVersion": "1.16.5",
+                "modCount": 281
+            }
         },
         {
             "name": "RLCraft",
             "link": "https://www.curseforge.com/minecraft/modpacks/rlcraft",
             "icon": "https://media.forgecdn.net/avatars/468/243/637751369169569212.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.12.2",
+                "modCount": 88
+            }
         },
         {
             "name": "Rustic Waters",
             "link": "https://www.curseforge.com/minecraft/modpacks/seablock-rustic-waters",
             "icon": "https://media.forgecdn.net/avatars/229/834/637057525058213429.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.12.2",
+                "modCount": 173
+            }
         },
         {
             "name": "Rustic Waters 2",
             "link": "https://www.curseforge.com/minecraft/modpacks/rustic-waters-ii",
             "icon": "https://media.forgecdn.net/avatars/505/404/637821966914808777.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.16.5",
+                "modCount": 200
+            }
         },
         {
             "name": "Sevtech Ages",
             "link": "https://www.curseforge.com/minecraft/modpacks/sevtech-ages",
             "icon": "https://media.forgecdn.net/avatars/147/67/636574428512291945.png",
-            "status": "playing"
+            "status": "playing",
+            "tags": {
+                "gameVersion": "1.12.2",
+                "modCount": 254
+            }
         },
         {
             "name": "Sky Bees 2",
             "link": "https://www.curseforge.com/minecraft/modpacks/sky-bees-2",
             "icon": "https://media.forgecdn.net/avatars/524/59/637845002112327144.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.16.5",
+                "modCount": 159
+            }
         },
         {
             "name": "Space Astronomy",
             "link": "https://www.curseforge.com/minecraft/modpacks/space-astronomy",
             "icon": "https://media.forgecdn.net/avatars/22/218/635738777656301988.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.7.10",
+                "modCount": 115
+            }
         },
         {
             "name": "Space Astronomy 2",
             "link": "https://www.curseforge.com/minecraft/modpacks/space-astronomy-2",
             "icon": "https://media.forgecdn.net/avatars/103/243/636336785827307922.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.10.2",
+                "modCount": 174
+            }
         },
         {
             "name": "Stoneblock 2",
             "link": "https://www.curseforge.com/minecraft/modpacks/ftb-presents-stoneblock-2",
             "icon": "https://media.forgecdn.net/avatars/184/286/636820598450762928.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.12.2",
+                "modCount": 224
+            }
         },
         {
             "name": "Material Energy: Classic",
             "link": "https://www.curseforge.com/minecraft/modpacks/material-energy-classic",
             "icon": "https://media.forgecdn.net/avatars/134/674/636493690892388386.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.6.4",
+                "modCount": 17
+            }
         },
         {
             "name": "Material Energy^4",
             "link": "https://www.curseforge.com/minecraft/modpacks/material-energy-4",
             "icon": "https://media.forgecdn.net/avatars/16/199/635642987637780351.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.7.10",
+                "modCount": 58
+            }
         },
         {
             "name": "Material Energy^5: Entity",
             "link": "https://www.curseforge.com/minecraft/modpacks/material-energy-5-entity",
             "icon": "https://media.forgecdn.net/avatars/274/38/637257062778112697.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.12.2",
+                "modCount": 89
+            }
         },
         {
             "name": "Material Energy^2: Energy Exponential",
             "link": "https://www.curseforge.com/minecraft/modpacks/me-2-material-energy-exponential",
             "icon": "https://media.forgecdn.net/avatars/43/847/636025650498344883.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.7.10",
+                "modCount": 64
+            }
         },
         {
             "name": "Material Energy: Exploration",
             "link": "https://www.curseforge.com/minecraft/modpacks/material-energy-exploration",
             "icon": "https://media.forgecdn.net/avatars/21/43/635721337061084197.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.7.10",
+                "modCount": 0
+            }
         },
         {
             "name": "Material Energy^Natural Capital",
             "link": "https://www.curseforge.com/minecraft/modpacks/material-energy-natural-capital",
             "icon": "https://media.forgecdn.net/avatars/34/425/635909963337052939.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.7.10",
+                "modCount": 92
+            }
         },
         {
             "name": "Create: Above and Beyond",
             "link": "https://www.curseforge.com/minecraft/modpacks/create-above-and-beyond",
             "icon": "https://media.forgecdn.net/avatars/450/731/637712078711696255.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.16.5",
+                "modCount": 136
+            }
         },
         {
             "name": "Blightfall",
             "link": "https://www.technicpack.net/modpack/blightfall.592618#:~:text=Blightfall%20is%20a%20combination%20modpack,3.75%20square%20Km%20in%20size.",
             "icon": "https://cdn.technicpack.net/platform2/pack-icons/592618.png?1679830739",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.7.10",
+                "modCount": 107
+            }
         },
         {
             "name": "Enigmatica 2: Expert",
             "link": "https://www.curseforge.com/minecraft/modpacks/enigmatica2expert",
             "icon": "https://media.forgecdn.net/avatars/287/344/637307898262282482.jpeg",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.12.2",
+                "modCount": 248
+            }
         },
         {
             "name": "Break Out",
             "link": "https://www.curseforge.com/minecraft/modpacks/breakout",
             "icon": "https://media.forgecdn.net/avatars/183/528/636815629878345765.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.12.2",
+                "modCount": 88
+            }
         },
         {
             "name": "Nomifactory",
             "link": "https://www.curseforge.com/minecraft/modpacks/nomifactory",
             "icon": "https://media.forgecdn.net/avatars/475/730/637768106795690939.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.12.2",
+                "modCount": 151
+            }
         },
         {
             "name": "GregTech: New Horizons",
             "link": "https://www.curseforge.com/minecraft/modpacks/gt-new-horizons",
             "icon": "https://media.forgecdn.net/avatars/53/488/636125694388807951.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.7.10",
+                "modCount": 22
+            }
         },
         {
             "name": "Regrowth",
             "link": "https://www.curseforge.com/minecraft/modpacks/regrowth-an-hqm-pack",
             "icon": "https://media.forgecdn.net/avatars/24/430/635757204516387959.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.7.10",
+                "modCount": 81
+            }
         },
         {
             "name": "Equivalent Skies",
             "link": "https://www.curseforge.com/minecraft/modpacks/equivalent-skies",
             "icon": "https://media.forgecdn.net/avatars/185/840/636829902466029767.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.12.2",
+                "modCount": 127
+            }
         },
         {
             "name": "All in One",
             "link": "https://www.curseforge.com/minecraft/modpacks/all-in-one-modded-one-block",
             "icon": "https://media.forgecdn.net/avatars/342/91/637485703554418199.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.16.5",
+                "modCount": 112
+            }
         },
         {
             "name": "Create: Astral",
             "link": "https://www.curseforge.com/minecraft/modpacks/create-astral/screenshots",
             "icon": "https://media.forgecdn.net/avatars/768/269/638104922297531668.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.18.2",
+                "modCount": 152
+            }
         },
         {
-            "name": "Astral Engineereing",
+            "name": "Astral Engineering",
             "link": "https://www.curseforge.com/minecraft/modpacks/astral-engineering",
             "icon": "https://media.forgecdn.net/avatars/446/692/637704589002710370.jpeg",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.16.5",
+                "modCount": 276
+            }
         },
         {
             "name": "Project Ozone 2",
             "link": "https://www.curseforge.com/minecraft/modpacks/project-ozone-2-reloaded",
             "icon": "https://media.forgecdn.net/avatars/39/687/635984377958786885.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.7.10",
+                "modCount": 165
+            }
         },
         {
             "name": "Project Ozone 3: A New Way Forward",
             "link": "https://www.curseforge.com/minecraft/modpacks/project-ozone-3-a-new-way-forward",
             "icon": "https://media.forgecdn.net/avatars/153/427/636618242985977538.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.12.2",
+                "modCount": 261
+            }
         },
         {
             "name": "Craft of the Titans 2",
             "link": "https://www.curseforge.com/minecraft/modpacks/craft-to-the-future-cott-ii",
             "icon": "https://media.forgecdn.net/avatars/149/735/636591439457717301.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.12.2",
+                "modCount": 155
+            }
         },
         {
             "name": "Enigmatica 6: Expert",
             "link": "https://www.curseforge.com/minecraft/modpacks/enigmatica6expert",
             "icon": "https://media.forgecdn.net/avatars/499/608/637816741349081609.jpeg",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.16.5",
+                "modCount": 354
+            }
         },
         {
             "name": "Multiblock Madness",
             "link": "https://www.curseforge.com/minecraft/modpacks/multiblock-madness",
             "icon": "https://media.forgecdn.net/avatars/441/822/637692574465638234.gif",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.12.2",
+                "modCount": 281
+            }
         },
         {
             "name": "Sky Factory 4",
             "link": "https://www.curseforge.com/minecraft/modpacks/skyfactory-4",
             "icon": "https://media.forgecdn.net/avatars/199/573/636907930795697123.png",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.12.2",
+                "modCount": 202
+            }
         },
         {
             "name": "Stoneblock 3",
             "link": "https://www.feed-the-beast.com/modpacks/100-ftb-stoneblock-3",
             "icon": "https://www.feed-the-beast.com/_next/image?url=https%3A%2F%2Fapps.modpacks.ch%2Fmodpacks%2Fart%2F96%2Fstoneblock_logo.png&w=256&q=75",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.18.2",
+                "modCount": 221
+            }
         },
         {
             "name": "FTB Inferno",
             "link": "https://www.feed-the-beast.com/modpacks/99-ftb-inferno",
             "icon": "https://www.feed-the-beast.com/_next/image?url=https%3A%2F%2Fapps.modpacks.ch%2Fmodpacks%2Fart%2F94%2Flogo_inferno.png&w=256&q=75",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.18.2",
+                "modCount": 268
+            }
         },
         {
             "name": "FTB Skies",
             "link": "https://www.feed-the-beast.com/modpacks/103-ftb-skies",
             "icon": "https://www.feed-the-beast.com/_next/image?url=https%3A%2F%2Fapps.modpacks.ch%2Fmodpacks%2Fart%2F99%2FFTB%20Skies%20512x512.png&w=256&q=75",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.19.2",
+                "modCount": 307
+            }
         },
         {
             "name": "FTB Sky Odyssey",
             "link": "https://www.feed-the-beast.com/modpacks/8-ftb-sky-odyssey",
             "icon": "https://www.feed-the-beast.com/_next/image?url=https%3A%2F%2Fapps.modpacks.ch%2Fmodpacks%2Fart%2F2%2Fsky-odyssey.png&w=256&q=75",
-            "status": "not-played"
+            "status": "not-played",
+            "tags": {
+                "gameVersion": "1.12.2",
+                "modCount": 213
+            }
         }
     ],
 
