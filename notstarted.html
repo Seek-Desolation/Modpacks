@@ -18,17 +18,14 @@
     
     <link rel="stylesheet" href="Style.css">
 
-    <!-- <script type="text/javascript" src="modpacks.json"></script> -->
     <script type="text/javascript" src="generateCards.js"></script>
-    <script type="text/javascript" src="allPacks.js"></script>
-
-
+    <script type="text/javascript" src="notStarted.js"></script>
   </head>
 
   <body class="seek-theme-dark">
     <!-- NAVBAR -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark theme-dark fixed-top">
-      <a class="navbar-brand" href="#" style="padding-left: 10px">All</a>
+      <a class="navbar-brand" href="#" style="padding-left: 10px">Modpacks</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -39,16 +36,18 @@
           <!-- GAMES DROPDOWN -->
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Modpacks
+              Not Started
             </a>
             
             <div class="dropdown-menu dropdown-theme-dark" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="current.html">
+
+              <a class="dropdown-item" href="index.html">
+                All Modpacks
+            </a>
+            <a class="dropdown-item" href="current.html">
                 Current
-              </a>
-              <a class="dropdown-item" href="notstarted.html">
-                Not Started
-              </a>
+            </a>
+            <div class="dropdown-divider"></div>
               <a class="dropdown-item" href="completed.html">
                 Completed
               </a>
@@ -56,8 +55,8 @@
           </li>
 
           <li class="nav-item">
-            <a class="nav-link disabled" href="#">
-              Disabled
+            <a id="randomButton" class="nav-link random-pick-text" href="#">
+              Random
             </a>
           </li>
         </ul>
@@ -66,5 +65,5 @@
       
     <div id="append-here"></div>
 
-  </body> 
+  </body>
 </html>
